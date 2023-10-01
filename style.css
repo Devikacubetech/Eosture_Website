@@ -1,0 +1,62 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.color1 {
+    color: #3ec6ff;
+}
+
+.top1 {
+    background: url('../images/Ēostre-UI-Kit-Sample.jpg');
+    background-size: cover;
+    padding-top: 100px;
+}
+
+.top1 h1 {
+    font-size: 70px;
+}
+
+.bgImg {
+    background: url('../images/mid_bg1.jpg');
+    background-size: cover;
+}
+
+.background1 {
+    background: #3ec6ff;
+}
+
+.background_Image1 {
+    background: url('../images/largbackground.jpg');
+    background-size: cover;
+}
+
+.navbar-nav .nav-link:hover {
+    color:#3ec6ff;
+}
+
+#slider1 .owl-prev {
+    font-size: 70px;
+    opacity: 0.7;
+    position: absolute;
+    left: -5%;
+    top: 15%;
+}
+
+#slider1 .owl-prev:hover,#slider1 .owl-next:hover {
+    background: none;
+    color: black;
+}
+
+#slider1 .owl-next {
+    font-size: 70px;
+    opacity: 0.7;
+    position: absolute;
+    right: -5%;
+    top: 15%;
+}
+
+.btn_hover:hover {
+    background: #3ec6ff !important;
+    color: white !important;
+}
+
