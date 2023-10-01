@@ -1,0 +1,32 @@
+@media only screen and (min-width: 200px) and (max-width:567px) {
+    .top1 h1 {
+        font-size: 40px;
+        padding: 0 !important;
+    }
+
+    .top1 h5,.top1 p {
+        padding: 0 !important;
+    }
+
+    .img1 {
+        width: 100%;
+    }
+
+    .responsive_div1 {
+        width: 100%;
+    }
+
+    #slider1 .owl-prev {
+        font-size: 50px;
+        left: -6.6%;
+    } 
+
+    #slider1 .owl-next {
+        font-size: 50px;
+        right: -6.6%;
+    } 
+
+    .footer span {
+        font-size: 13px;
+    }
+}
